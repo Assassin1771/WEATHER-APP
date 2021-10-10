@@ -1,14 +1,42 @@
-# Weather Progressive Web Application
-![Weather Data](https://i.imgur.com/3csowzj.png)
+# WEATHER APP
+An application which lets the user to enter and city name and then gives the weather details of that city in real time.
+<br>
+Details such as temperature, humidity, cloud formation and more.
+<br>
+A handy application to check weather before you are going out.
+<br>
+<br>
+Visit the Website : https://weather-app-assassin1771.netlify.app/
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+<img src="Screenshot (381).png">
+<br>
+<br>
+<br>
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+### Installation and Setup Instructions
 
-In this video, we will create a PWA. We're going to use React with service workers.
+Clone down this repository. You will need node and npm installed globally on your machine.
 
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+Installation:
+<br>
+npm install
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+To Run Test Suite:
+<br>
+npm test
+
+To Start Server:
+<br>
+npm start
+
+To Visit App:
+<br>
+http://localhost:3000
+<br>
+<br>
+<br>
+This is one of the basic projects which every Web Developer desires to build.
+<br>
+I built this project using React JS, ES6, CSS3 and html5.
+<br>
+The website is fully responsive and compatible on all devices.
