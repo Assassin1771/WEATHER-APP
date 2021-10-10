@@ -8,7 +8,7 @@ A handy application to check weather before you are going out.
 <br>
 Visit the Website : https://weather-app-assassin1771.netlify.app/
 
-<img src="Screenshot (381).png">
+<img src="SS/Screenshot (388).png">
 <br>
 <br>
 <br>
